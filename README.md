@@ -113,3 +113,6 @@ safaribooks-downloader -d -b 9781484224427 -u nicohaenggi -p MySuperSecurePasswo
 # Copyright & License
 
 Copyright (c) 2017 Nico Haenggi - Released under the [MIT License](https://github.com/nicohaenggi/SafariBooks-Downloader/blob/master/LICENSE)
+# Yoorid Shop
+To use in yoorid book store: www.yoorid.com
+
